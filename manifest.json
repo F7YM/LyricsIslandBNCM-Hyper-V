@@ -1,12 +1,13 @@
 {
     "manifest_version": 1,
-    "name": "LyricsIsland",
-    "slug": "LyricsIsland",
+    "name": "LyricsIsland-Hyper-V",
+    "slug": "LyricsIsland-Hyper-V",
     "description": "让BetterNCM与ClassIsland和ClassWidgets通信，在主界面显示歌词。",
     "preview": "preview.png",
     "version": "1.0.1",
-    "author": "jiangyin14,沫烬染,LaoShui,Xwei1645",
+    "author": "float11,jiangyin14,沫烬染,LaoShui,Xwei1645",
     "author_links": [
+        "http://float11.top",
         "https://github.com/jiangyin14",
         "https://www.jiangyin14.top/"
     ],
