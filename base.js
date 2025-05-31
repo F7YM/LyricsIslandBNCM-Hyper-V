@@ -2,7 +2,7 @@
 
 
 plugin.onLoad(async () => {
-    const TaskbarLyricsPort = 50063;
+    const TaskbarLyricsPort = 27083;
 
     const TaskbarLyricsFetch = (path, params) => fetch(
         `http://127.0.0.1:${TaskbarLyricsPort}/component${path}/`,
